@@ -2,7 +2,7 @@
 
 A Beginners Guide on Things To Do After Installing Ubuntu
 
-1. Check For Updates
+1. Check For Updates.
 " sudo apt update && sudo apt upgrade "
 
 2. Enable additional repositories for more software
